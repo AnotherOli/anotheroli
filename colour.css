@@ -78,5 +78,5 @@ This sets the colour of icon itself when you hover over it
  */
 
 a > .fab:hover, a > .fas:hover{
-  color: #45b1e8;
+  color: #ffdead;
 }
