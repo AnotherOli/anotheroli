@@ -5,7 +5,7 @@ color sets the colour of the text on the page.
  */
 
 html, body{
-  background-color: #ffdead;
+  background-color: #fdd5b1;
   color: #000000;
 }
 
@@ -62,7 +62,7 @@ This sets the colour of icon itself
  */
 
 a > .fab, a > .fas{
-  color: #ffdead;
+  color: #fdd5b1;
 }
 
 /*
@@ -78,5 +78,5 @@ This sets the colour of icon itself when you hover over it
  */
 
 a > .fab:hover, a > .fas:hover{
-  color: #ffdead;
+  color: #fdd5b1;
 }
